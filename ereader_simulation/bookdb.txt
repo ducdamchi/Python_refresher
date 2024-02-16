@@ -1,0 +1,6 @@
+GettysburgAddress,Abraham Lincoln,1863,/usr/local/doc/GettysburgAddress
+Alice in Wonderland,Lewis Carroll,1865,/usr/local/doc/alice.txt
+Pride and Prejudice,Jane Austin,1813,/usr/local/doc/prideandprejudice.txt
+Peter Pan,J. M. Barrie,1922,/usr/local/doc/peterpan.txt
+Ulysses,James Joyce,1922,/usr/local/doc/ulysses.txt
+Mary Had a Little Lamb,Sarah Josepha Hale,1830,/usr/local/doc/mary.txt
